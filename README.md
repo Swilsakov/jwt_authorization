@@ -1,7 +1,4 @@
 ```
-You need to add file .env then to write this variables:
-```
-```
 PORT=5000
 DB_URL=url DB
 JWT_ACCESS_SECRET=jwt-secret-key
